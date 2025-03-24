@@ -182,4 +182,4 @@ for row in config_df.collect():
 save_logs_to_gcs()
 save_logs_to_bigquery()
 
-print("✅ Pipeline completed successfully!")
+print("✅ Pipeline completed successfully....!")
